@@ -1,0 +1,23 @@
+--// Script cho solara \\--
+1: Annie Hub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1st-Mars/Annie/main/1st.lua'))()
+2:Masune Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Matsune/main/MatsuneV3.lua"))()
+3:Yagox Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelok/yagoX/main/main"))()
+4:Chest Farm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangnorpscripter/scriptkhanhdz/main/autochest.lua"))()
+5:Auto Fruit
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangnorpscripter/scriptkhanhdz/main/autofruit.lua"))()
+6:Bkhax Hub
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/koonpeatch/PeatEX/master/BKHAX/BloxFruits"),true))()
+
+--// Script Khác \\--
+Banana Hub cracked (legit real) -- kaitun soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangnorpscripter/scriptkhanhdz/main/bininicracked.lua"))()
+
+Infinite Yield
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+
+Dark Dex
+loadstring(game:HttpGet('https://ithinkimandrew.site/scripts/tools/dark-dex.lua'))()
